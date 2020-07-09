@@ -1,4 +1,5 @@
 ![](https://i.imgur.com/zUYlKyN.png)
 
-- 🔭 I’m currently working on https://github.com/ember-learn/upgrade-guide
-- 📫 How to reach me: https://twitter.com/kennethlarsen
+👋 Hello, I'm [Kenneth Larsen](https://twitter.com/kennethlarsen), Engineering Manager at [Clark](https://www.clark.de/de/jobs) and a member of the [Ember Learning Core Team](https://emberjs.com/teams/).
+
+Feel free to reach out to me if you want to get into contributing to Ember.
